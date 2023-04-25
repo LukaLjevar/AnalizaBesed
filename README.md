@@ -8,6 +8,7 @@ UVP
 
 ## Avtorji
 
-Luka Ljevar
-Ulka Jlevar
-Ukla Jelvar
+- Luka Ljevar
+- Ulka Jlevar
+- Ukla Jelvar
+- Ukal Jevlar 
